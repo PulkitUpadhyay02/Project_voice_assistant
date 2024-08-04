@@ -12,9 +12,7 @@ Prerequisites
 
     C Compiler: GCC or any other C compiler.
     eSpeak: A compact open-source speech synthesis engine.
-        On Ubuntu/Debian: sudo apt-get install espeak
-        On Windows/Mac: Download eSpeak
-
+   
 Installation
 
     Clone the Repository
